@@ -7,9 +7,9 @@
 
 - 💬 In my GitHub you can find **Python** and **GDScript** repositories.
 
-- 🔭 Last project: Kizazi Moto Generation Fire (Streaming on Disney+).
+- 🔭 *Last project:* Character Rigging Lead on [**Kizazi Moto Generation Fire (Streaming on Disney+)**](https://www.imdb.com/title/tt14866860/?ref_=nm_knf_t_1) .
 
-- ⚡ Fun fact: **I love to play the guitar🎸**
+- ⚡ Fun fact: I love to play the guitar🎸
 
 - ▶️ More at [**glauberbelo.com**](https://glauberbelo.com)
 

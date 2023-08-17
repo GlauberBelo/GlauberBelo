@@ -7,7 +7,7 @@
 
 - 💬 In my GitHub you can find **Python** and **GDScript** repositories.
 
-- 🔭 *Last project:* Character Rigging Lead on [**Kizazi Moto Generation Fire (Streaming on Disney+)**](https://www.imdb.com/title/tt14866860/?ref_=nm_knf_t_1).
+- 🔭 *Last project:* Character Rigging Lead on [**Kizazi Moto: Generation Fire (Streaming on Disney+)**](https://www.imdb.com/title/tt14866860/?ref_=nm_knf_t_1).
 
 - ⚡ Fun fact: I love to play the guitar🎸
 

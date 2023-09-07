@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working in the animation industry.
 
-- 💬 In my GitHub you can find **Python** and **GDScript** repositories.
+- 💬 In my GitHub I manage **rigging tools** and **game development** repositories.
 
 - 🔭 *Last project:* Character Rigging Lead on [**Kizazi Moto: Generation Fire (Streaming on Disney+)**](https://www.imdb.com/title/tt14866860/?ref_=nm_knf_t_1).
 

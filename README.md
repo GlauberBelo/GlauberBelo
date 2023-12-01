@@ -1,28 +1,14 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Glauber Belo 😁</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GlauberBelo&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Senior Rigger.
-
-- 👨‍💻 I’m currently working in the animation industry.
-
-- 💬 In my GitHub I manage **rigging tools** and **game development** repositories.
-
-- 🔭 *Last project:* Character Rigging Lead on [**Kizazi Moto: Generation Fire (Streaming on Disney+)**](https://www.imdb.com/title/tt14866860/?ref_=nm_knf_t_1).
+- 🔥 Rigger.
 
 - ⚡ Fun fact: I love to play the guitar🎸
-
-- ▶️ More at [**glauberbelo.com**](https://glauberbelo.com)
 
 
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://glauberbelo.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-glauberbelo-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://linkedin.com/in/glauberbelo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-glauberbelo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
 <a href="https://instagram.com/glauber.belo" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-glauberbelo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
